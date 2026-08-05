@@ -1,0 +1,16 @@
+id_cliente,nombre,region,edad,ingresos_mensuales,gasto_publicidad,ventas,fecha_registro,cliente_activo
+1,Ana Rojas,Norte,34,850000,"1,200",15000,2023-01-15,Si
+2,Carlos Mora,Sur,45,"1.200.000",2500,28000,2023-02-20,Si
+3,Beatriz Solis,Este,29,650000,800,9000,2023-01-30,No
+4,Daniel Vargas,Norte,52,"$2.100.000",3200,35000,2023-03-05,Si
+5,Elena Castro,Oeste,38,,1500,,2023-04-10,Si
+6,Elena Castro,Oeste,38,,1500,,2023-04-10,Si
+7,Fernando Ugalde,Sur,41,980000,1800,21000,2023-02-14,No
+8,Gabriela Mendez,Norte,27,720000,600,7000,2023-05-22,Si
+9,Hector Jimenez,Este,60,1500000,4000,42000,2023-01-08,Si
+10,Irene Salas,Oeste,33,890000,,16000,2023-06-01,No
+11,Jorge Pinto,Norte,48,1100000,2800,30000,2023-03-19,Si
+12,Karla Nuñez,Sur,31,760000,1100,12000,2023-07-11,Si
+13,Luis Aguilar,Este,55,1350000,3500,38000,2023-02-28,No
+14,Marcela Vindas,Oeste,26,680000,700,8000,2023-08-03,Si
+15,Nestor Chacon,Norte,44,995000,2200,25000,2023-04-17,Si
