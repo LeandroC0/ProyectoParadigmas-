@@ -2,8 +2,7 @@
 
 ## Módulos entregados (Carga de Datos + Procesamiento)
 
-Estos dos módulos ya están terminados y probados. El resto del equipo puede
-construir encima de ellos sin modificarlos.
+
 
 ### Instalación
 
@@ -30,6 +29,7 @@ Cada módulo se puede correr directo desde consola para probarlo:
 ```bash
 python modulos/carga_datos.py datos_ejemplo/ventas_ejemplo.csv
 python modulos/procesamiento.py datos_ejemplo/ventas_ejemplo.csv
+py analisis_exploratorio.py ../datos_ejemplo/ventas_ejemplo.csv
 ```
 
 
