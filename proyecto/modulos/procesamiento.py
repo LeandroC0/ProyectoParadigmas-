@@ -4,7 +4,6 @@ Módulo: Procesamiento de Datos
 - Detectar automáticamente el tipo de cada columna (numérica, categórica, fecha, booleana)
 - Limpieza básica: valores nulos, duplicados, tipos incorrectos.
 
-
 """
 
 from dataclasses import dataclass, field
