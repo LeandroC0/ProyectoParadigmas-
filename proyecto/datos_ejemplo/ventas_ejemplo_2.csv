@@ -1,0 +1,61 @@
+﻿id_cliente,nombre,region,edad,ingresos_mensuales,gasto_publicidad,ventas,fecha_registro,cliente_activo
+1,Ana Rojas,Norte,34,850000,"1,200",15000,2023-01-15,Si
+2,Carlos Mora,Sur,45,1.200.000,2500,28000,2023-02-20,Si
+3,Beatriz Solis,Este,29,650000,800,9000,2023-01-30,No
+4,Daniel Vargas,Norte,52,$2.100.000,3200,35000,2023-03-05,Si
+5,Elena Castro,Oeste,38,,1500,,2023-04-10,Si
+6,Elena Castro,Oeste,38,,1500,,2023-04-10,Si
+7,Fernando Ugalde,Sur,41,980000,1800,21000,2023-02-14,No
+8,Gabriela Mendez,Norte,27,720000,600,7000,2023-05-22,Si
+9,Hector Jimenez,Este,60,1500000,4000,42000,2023-01-08,Si
+10,Irene Salas,Oeste,33,890000,,16000,2023-06-01,No
+11,Jorge Pinto,Norte,48,1100000,2800,30000,2023-03-19,Si
+12,Karla Nuñez,Sur,31,760000,1100,12000,2023-07-11,Si
+13,Luis Aguilar,Este,55,1350000,3500,38000,2023-02-28,No
+14,Marcela Vindas,Oeste,26,680000,700,8000,2023-08-03,Si
+15,Nestor Chacon,Norte,44,995000,2200,25000,2023-04-17,Si
+16,Sofia Ramirez,Sur,62,880.000,600,23500,2023-09-08,Si
+17,,Norte,24,670000,1000,19500,2023-08-27,No
+18,Valeria Araya,Sur,32,1680000,2600,,2023-06-09,Si
+19,Diego Brenes,Norte,60,1270000,700,35000,2024-07-03,No
+20,Camila Hernandez,Norte,61,1520000,4100,18000,2023-03-13,Si
+21,Jose Calderon,Sur,28,1570000,2200,35000,2024-01-09,No
+22,Laura Montero,Sur,65,780.000,4300,46500,2023-06-25,Si
+23,Pablo Cordero,Este,25,$1.180.000,700,,,No
+24,Maria Fernanda Soto,Este,51,960000,2100,14500,2023-09-10,
+25,Esteban Rojas,Oeste,27,720000,1200,15500,2023-06-13,No
+26,Daniela Villalobos,Este,,$620.000,1200,40000,2023-10-01,No
+27,Ricardo Solano,Sur,54,870.000,4500,25000,2024-06-03,Si
+28,Natalia Mora,,53,$640.000,1200,29000,,Si
+29,Kevin Vargas,Sur,56,920000,1300,48000,2024-05-01,No
+30,,Oeste,56,1110000,2400,31500,2024-01-18,Si
+31,Mauricio Castro,Norte,59,$2.010.000,1900,,2023-08-14,Si
+32,Alejandra Mendez,,26,1910000,2000,23500,,No
+33,Sebastian Chaves,,28,840000,3200,28500,2024-03-09,Si
+34,Melissa Aguilar,Sur,37,1090000,1700,40000,2024-04-04,Si
+35,Fabian Salas,,26,1730000,4000,12000,2023-02-21,
+36,Andrea Ureña,,,750000,1500,30000,2023-01-03,No
+37,,,,,,,,
+38,Monica Fallas,Norte,40,1150000,800,43000,2024-07-09,No
+39,Jonathan Segura,Sur,55,$1.000.000,800,38500,2023-03-24,Si
+40,Adriana Campos,Norte,58,1230000,4200,44000,2023-02-10,No
+41,David Alvarado,Sur,35,1400000,2000,22500,2024-02-10,No
+42,Tatiana Porras,,26,$620.000,3400,45500,2024-07-30,No
+43,Manuel Zuniga,Este,37,1540000,2300,16000,2024-03-24,Si
+44,Rebeca Madrigal,Norte,57,1360000,1100,,2023-09-28,Si
+45,Oscar Barrantes,Norte,,$1.270.000,3700,37000,2023-09-15,No
+46,Silvia Alfaro,Oeste,62,1270000,"1,500",34000,2024-07-18,Si
+47,Marco Hidalgo,Sur,45,$2.090.000,4000,15000,2024-03-16,Si
+48,Gabriel Navarro,Oeste,35,1230000,1100,28500,2024-07-27,Si
+49,Lucia Blanco,Oeste,33,1650000,600,17000,,Si
+50,Roberto Cerdas,Este,24,1800000,1900,18500,,Si
+51,Karen Sanabria,Oeste,43,1310000,900,23500,2023-12-26,No
+52,Felipe Murillo,Norte,29,$1.260.000,1600,43000,2023-09-29,No
+53,Nicole Venegas,Este,54,$890.000,2900,,2023-07-14,Si
+54,Alonso Corrales,Este,61,1400000,1200,25000,2024-06-03,No
+55,Patricia Arce,Este,34,,2900,,2024-08-05,No
+56,Bryan Rodriguez,Sur,50,1730000,,38500,2024-04-29,No
+57,Fiorella Rojas,Sur,36,1100000,1400,7500,2023-02-17,Si
+58,Steven Mora,Oeste,62,2070000,1700,30500,2024-05-21,Si
+59,Carolina Vargas,Oeste,28,$1.680.000,1900,17000,2024-06-14,Si
+60,Gerardo Solis,Oeste,51,1950000,4000,44000,2023-11-21,No
