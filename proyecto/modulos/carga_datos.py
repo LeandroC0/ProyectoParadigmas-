@@ -99,7 +99,7 @@ def _validar_estructura(df: pd.DataFrame, nombre_archivo: str) -> ResultadoCarga
     if df.shape[1] < 2:
         errores.append("El archivo debe tener al menos 2 columnas para poder analizarse.")
 
-    # 4. Debe tener al menos algunas filas de datos
+    # 4. Debe tener al menos tres filas de datos
     if df.shape[0] < 3:
         errores.append("El archivo debe tener al menos 3 filas de datos.")
 
